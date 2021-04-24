@@ -2,3 +2,9 @@ we just published our local git repo to remote GitHub.com repostory
 
 few things happened :
  
+
+ we do not commit one at thr time 
+
+
+
+ 
